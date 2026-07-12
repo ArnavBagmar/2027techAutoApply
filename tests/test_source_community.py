@@ -29,3 +29,8 @@ def test_parse_tags_source_and_ats():
 def test_parse_drops_entries_whose_title_names_another_year():
     listings = community.parse(load_fixture("community_listings.json"), "org/repo", NOW)
     assert not any("555" in item.url for item in listings)
+
+
+def test_parse_drops_entries_whose_url_names_another_year():
+    listings = community.parse(load_fixture("community_listings.json"), "org/repo", NOW)
+    assert not any("444" in item.url for item in listings)

@@ -4,23 +4,8 @@
     "ats": "community",
     "category": "swe",
     "closed_at": null,
-    "company": "ABC News",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
-    "id": "d0a905bc3e702c9ec5ae5f0acd8e36742f100192",
-    "locations": [
-      "New York, NY"
-    ],
-    "source": "community:vanshb03/Summer2027-Internships",
-    "title": "Product Management and Engineering Intern",
-    "url": "https://jobs.disneycareers.com/job/new-york/abc-news-product-management-and-engineering-intern-summer-fall-2026/391/93958488896"
-  },
-  {
-    "active": true,
-    "ats": "community",
-    "category": "swe",
-    "closed_at": null,
     "company": "Abundant",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "a275025431c6d2067e9268798a523b2d0a96bd10",
     "locations": [
       "San Francisco, CA"
@@ -35,7 +20,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Al Warren Oil Company",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "dc8924a3439371712ba67962f5a6cbb6d0d2ab65",
     "locations": [
       "Bensenville, IL"
@@ -49,31 +34,9 @@
     "ats": "community",
     "category": "swe",
     "closed_at": null,
-    "company": "Amazon",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
-    "id": "1264c499aae5ab0aee8c7dca186384b5ec83fbea",
-    "locations": [
-      "Sunnyvale, CA",
-      "North Reading, MA",
-      "Westboro, MA",
-      "Nashville, TN",
-      "Austin, TX",
-      "Arlington, VA",
-      "Bellevue, WA",
-      "Seattle, WA"
-    ],
-    "source": "community:vanshb03/Summer2027-Internships",
-    "title": "Robotics - Software Development Engineer Intern/Co-op",
-    "url": "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1"
-  },
-  {
-    "active": true,
-    "ats": "community",
-    "category": "swe",
-    "closed_at": null,
     "company": "Anduril",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
-    "id": "8e5113dd4d6c6e4a16b55fa1c7c8070b723e069c",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
+    "id": "fbf8a2732425daebef9efc19cca9df7305059cc4",
     "locations": [
       "Atlanta, GA",
       "Boston, MA",
@@ -92,7 +55,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Apple",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "50a0a2b12b804fc5f6c49428514b36696bd7552f",
     "locations": [
       "United States"
@@ -107,7 +70,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Apple",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "1a898a087d69b23c0b4eba4ca730c37dd793f586",
     "locations": [
       "United States"
@@ -122,7 +85,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Aquatic",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "387eea6064d7f0277c29687e2c86c266f339f2b6",
     "locations": [
       "Chicago, IL"
@@ -137,8 +100,8 @@
     "category": "swe",
     "closed_at": null,
     "company": "Aquatic Capital",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
-    "id": "144ea65a5864a28e401fd547fe7ffa8ce922a97b",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
+    "id": "efdc36158cd155a09d2bd5b4efef4c9a45aa6891",
     "locations": [
       "Chicago, IL"
     ],
@@ -149,26 +112,10 @@
   {
     "active": true,
     "ats": "community",
-    "category": "swe",
-    "closed_at": null,
-    "company": "Avanade",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
-    "id": "e11bb6ab5f18126af9faef6479d3988599a8e3b9",
-    "locations": [
-      "Los Angeles, CA",
-      "Seattle, WA"
-    ],
-    "source": "community:vanshb03/Summer2027-Internships",
-    "title": "Software Engineering Intern",
-    "url": "https://accenture.wd103.myworkdayjobs.com/en-GB/AvanadeCareers/job/Los-Angeles-6181-W-Centinela-Ave-Corp/Intern--Software-Engineering---June-2026_R00319370?jr_id=69e6a556f8fa2f3ec32a3173"
-  },
-  {
-    "active": true,
-    "ats": "community",
     "category": "data-ml",
     "closed_at": null,
     "company": "Capital One",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "fd11e0d5e882b52ca21d959b3baf6d52d383978c",
     "locations": [
       "Mclean, VA"
@@ -183,7 +130,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Capital One",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "dbab5b464bbdec69448ea8c247401d57249a1c26",
     "locations": [
       "Mclean, VA",
@@ -199,7 +146,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Citadel",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "b7b4a5e780b2688d9dddf922bb92cf3470cc8dca",
     "locations": [
       "New York, NY",
@@ -214,10 +161,25 @@
   {
     "active": true,
     "ats": "community",
+    "category": "quant",
+    "closed_at": null,
+    "company": "Cubist Systematic Strategies",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
+    "id": "f01b19efe8908c79c1841125c8899895b5da420f",
+    "locations": [
+      "New York, NY"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Quantitative Developer Intern",
+    "url": "https://job-boards.greenhouse.io/embed/job_app?for=point72&jr_id=6a07069024dcb03739f1ec72&token=7297613002"
+  },
+  {
+    "active": true,
+    "ats": "community",
     "category": "swe",
     "closed_at": null,
     "company": "DE Shaw",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "316e69e9ae700601711b4392cd79db84d9a68d66",
     "locations": [
       "New York, NY"
@@ -232,7 +194,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Dedalus Labs",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "b424b7e9e0c8055b7a5f1a02c421895c9f96a0ba",
     "locations": [
       "San Francisco, CA"
@@ -247,7 +209,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "DimeHealth AI",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "7b734085c00667921d3abab78cc162807c6cb11a",
     "locations": [
       "New York, NY"
@@ -262,7 +224,7 @@
     "category": "hardware",
     "closed_at": null,
     "company": "Etched",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "34f1f8689a74af8b7c45775404df0acf24361686",
     "locations": [
       "San Jose, CA"
@@ -277,7 +239,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Etched",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "4969ac72c431fcf479ff5184c3181123f39ee40f",
     "locations": [
       "San Jose, CA"
@@ -292,7 +254,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Etched",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "86fd8e4ce2c6aeccfe0a9ccc1c673899f204deaf",
     "locations": [
       "San Jose, CA"
@@ -307,7 +269,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Etched",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "76c629ddd4d7738cf81cfbec6d96dddc73da2ddc",
     "locations": [
       "San Jose, CA"
@@ -322,8 +284,8 @@
     "category": "swe",
     "closed_at": null,
     "company": "Fiserv",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
-    "id": "89dc1b8cd80d88706b93835d412d99790cdb0059",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
+    "id": "ad0c1cc44e74b70c5e2c5156611476bc9911d09a",
     "locations": [
       "Alpharetta, GA"
     ],
@@ -337,8 +299,8 @@
     "category": "swe",
     "closed_at": null,
     "company": "Fiserv",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
-    "id": "40138482ca05841210aee32c44c39483e58db97a",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
+    "id": "b8eebb6743866c0a49c5dc28f1c5bce0023f4e50",
     "locations": [
       "Columbus, OH"
     ],
@@ -352,7 +314,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "General Astronautics",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "5a95b51abd2ab4c4b8c3931405598f051babb4fb",
     "locations": [
       "San Francisco, CA"
@@ -367,8 +329,8 @@
     "category": "swe",
     "closed_at": null,
     "company": "H&CO",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
-    "id": "e3483610e2e50ce06712579cf592a182ecc7185e",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
+    "id": "c05d5c66c9fc24f3ffb475bbb5ff058ecb69e051",
     "locations": [
       "Coral Gables, FL"
     ],
@@ -382,7 +344,7 @@
     "category": "data-ml",
     "closed_at": null,
     "company": "Homebase",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "2f30c58880f85b1cc7817fa9a118b96adb28ef65",
     "locations": [
       "Houston, TX",
@@ -398,7 +360,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "IMC",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "58efe69a5c5a1afaaaee8fdf489664b5381b92f2",
     "locations": [
       "Chicago, IL"
@@ -413,8 +375,8 @@
     "category": "data-ml",
     "closed_at": null,
     "company": "Intercontinental Exchange, Inc.",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
-    "id": "520c075bbc84204a4e1adb3ac5d4822d780fab3b",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
+    "id": "f935cf4524a3b6345db47ddc99df33cc23f10c13",
     "locations": [
       "New York, NY"
     ],
@@ -425,11 +387,26 @@
   {
     "active": true,
     "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "Jump Trading",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
+    "id": "5098e31d4945c168ed16a7263cd4fe8ab9149d52",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Campus Systems Engineer Intern",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788"
+  },
+  {
+    "active": true,
+    "ats": "community",
     "category": "quant",
     "closed_at": null,
     "company": "Jump Trading",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
-    "id": "b1e58a4116d1ecc753678b15d2e09a0c8deb1bcf",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
+    "id": "91b1c350a736df6462c7277a841564c4b909278d",
     "locations": [
       "Chicago, IL",
       "New York, NY"
@@ -443,8 +420,38 @@
     "ats": "community",
     "category": "swe",
     "closed_at": null,
+    "company": "Jump Trading",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
+    "id": "295be15e1382ea14d2dfb6e6d7c72f4206de16f5",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Software Engineer Intern",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "Jump Trading Group",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
+    "id": "76b32d52daaae059338c20106a26a797fa1b7b32",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Campus UI Software Engineer Intern",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
     "company": "Kudu Dynamics",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "07c1f0a70fb2d00416a2be12cd4fad459b0e6fcf",
     "locations": [
       "Chantilly, VA"
@@ -459,7 +466,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Kudu Dynamics",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "59088d790d70b67ea3c51faf64e2f1a6a2e62316",
     "locations": [
       "Chantilly, VA"
@@ -474,7 +481,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Kudu Dynamics",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "eeb983690c7584ea882616e17348644fde65aadf",
     "locations": [
       "Chantilly, VA"
@@ -489,7 +496,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "LiveRamp",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "d4be070087fd251f978581bbec74fd144367f61a",
     "locations": [
       "New York, NY"
@@ -504,7 +511,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Nash",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "36f4a509afef77ac6642b1a9b3b114501945b459",
     "locations": [
       "San Francisco, CA"
@@ -519,7 +526,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Na\u00efve",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "8cecefb14e2f0cc33330d9d31f30d1e895457de2",
     "locations": [
       "San Francisco, CA",
@@ -535,7 +542,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Optiver",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "0212ad5b1d96d2b9341e36320896fc47c3a12a7d",
     "locations": [
       "Chicago, IL"
@@ -550,7 +557,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Optiver",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "75582457b4e2e93f8507bf4292ec29930fe973e0",
     "locations": [
       "Austin, TX"
@@ -565,7 +572,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Paragon",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "6dece643741ccb0f0e30810e4558a83e105c1551",
     "locations": [
       "San Francisco, CA"
@@ -580,7 +587,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Podium",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "bfbc3be36c91bddf25f48e819f36e02c7d19f20c",
     "locations": [
       "Lehi, UT"
@@ -592,11 +599,30 @@
   {
     "active": true,
     "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "Point72",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
+    "id": "67aedee7d6dc8556642c0d019783f9c98d8c5bb4",
+    "locations": [
+      "New York, NY",
+      "San Francisco, CA",
+      "Chicago, IL",
+      "West Palm Beach, FL",
+      "Miami, FL"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Investment Analyst Intern, Point72 Academy",
+    "url": "https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081"
+  },
+  {
+    "active": true,
+    "ats": "community",
     "category": "quant",
     "closed_at": null,
     "company": "Point72",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
-    "id": "4db4654c13425dee5e42ce6333cffb902498b595",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
+    "id": "251025f7ce954f7ded2eeed7b802bfedc01fff5f",
     "locations": [
       "New York, NY"
     ],
@@ -607,10 +633,25 @@
   {
     "active": true,
     "ats": "community",
+    "category": "quant",
+    "closed_at": null,
+    "company": "Point72",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
+    "id": "a97c77faf28cc9f094ad58beb62181c0efb9013d",
+    "locations": [
+      "New York, NY"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Quantitative Researcher Intern",
+    "url": "https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295"
+  },
+  {
+    "active": true,
+    "ats": "community",
     "category": "swe",
     "closed_at": null,
     "company": "Poshmark",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "dc52bccad5ca34b3ffa4762c4a6f5a8694c1f1f9",
     "locations": [
       "Redwood City, CA"
@@ -625,7 +666,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Salesforce",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "d4784760122d9a8f6804239352a5f1c6e310e62c",
     "locations": [
       "San Francisco, CA",
@@ -644,8 +685,8 @@
     "category": "swe",
     "closed_at": null,
     "company": "Skyworks",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
-    "id": "87d1cadc00147ca0c9daa5b174769de87d6dbb3b",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
+    "id": "a63a956e624c1f7610bb8251aaaab5d4c000033f",
     "locations": [
       "Irvine, CA"
     ],
@@ -659,7 +700,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "StarSling",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "78c3a4461c39787a6855b3e51dd94fb55526a98a",
     "locations": [
       "San Mateo, CA"
@@ -674,8 +715,8 @@
     "category": "swe",
     "closed_at": null,
     "company": "Stoke Space",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
-    "id": "f171979d2c448285d240b0b5e1e47b92cc37872d",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
+    "id": "0988031f6a042975c82a16772a60006796435ec0",
     "locations": [
       "Kent, WA"
     ],
@@ -689,8 +730,8 @@
     "category": "quant",
     "closed_at": null,
     "company": "Susquehanna",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
-    "id": "c9b7feb368ca4001c5fa2d2f3563f25911972018",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
+    "id": "0804861d23bb449241e582e1cb6f7c1a918d19dd",
     "locations": [
       "Bala Cynwyd, PA"
     ],
@@ -704,8 +745,8 @@
     "category": "quant",
     "closed_at": null,
     "company": "Susquehanna Investment Group",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
-    "id": "8343b5035c511cd2db829b66b0a0350e0b77d998",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
+    "id": "a335680e28389635c38b4d17591a1af0962a4f7d",
     "locations": [
       "Bala Cynwyd, PA"
     ],
@@ -719,7 +760,7 @@
     "category": "data-ml",
     "closed_at": null,
     "company": "Terranox AI",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "a6eab1b84d7ed3edb99a69805f14071c0fb9773c",
     "locations": [
       "San Francisco, CA"
@@ -734,8 +775,8 @@
     "category": "hardware",
     "closed_at": null,
     "company": "TETRAMEM",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
-    "id": "fe9e72c9fd84e75fd928ceee3b17cca0b94c4351",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
+    "id": "4009fa413716f52be1098761cb74e8671e13db8e",
     "locations": [
       "San Jose, CA"
     ],
@@ -749,7 +790,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "TikTok",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "a36fc99b41f5c3f5ed6d4cdce21a0c5a7e432e42",
     "locations": [
       "San Jose, CA"
@@ -764,8 +805,8 @@
     "category": "quant",
     "closed_at": null,
     "company": "Tower Research",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
-    "id": "e8731df72bcff2574911701a36ce405ab00b1c7e",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
+    "id": "d2babfbbf11963fc9d6d865b399fac0c339e154d",
     "locations": [
       "Chicago, IL",
       "New York, NY"
@@ -780,7 +821,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Trata",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "fa36141bc3c3d71e34bce28515ca0975d86f29f5",
     "locations": [
       "San Francisco, CA",
@@ -796,7 +837,7 @@
     "category": "data-ml",
     "closed_at": null,
     "company": "Veeam Software",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "5702e6400f6f37ab9ac1225012dd0fa9137e0de3",
     "locations": [
       "San Jose, CA"
@@ -811,7 +852,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Veeam Software",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "1bf020687534608cc0331034a2fdefa036abe8da",
     "locations": [
       "San Jose, CA"
@@ -826,8 +867,8 @@
     "category": "quant",
     "closed_at": null,
     "company": "Voloridge Investment Management",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
-    "id": "e14a16019d698ffbcf0440bf0c35fc323e4fd84f",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
+    "id": "9d8be028b9766f61d3dd28c9765213f28d27cb23",
     "locations": [
       "Jupiter, FL"
     ],
@@ -841,7 +882,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "WSP",
-    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "75d70a951cc5576a6c00b79643a2cc2ef143d520",
     "locations": [
       "Dallas, TX"

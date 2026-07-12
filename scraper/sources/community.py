@@ -18,8 +18,11 @@ COMMUNITY_SOURCES: dict[str, str] = {
 }
 
 # Belt-and-suspenders against upstream scope drift: season == "Summer" is
-# trusted only while the title names no other year.
-OTHER_YEAR_RE = re.compile(r"\b(202[0-6]|202[89]|203\d)\b")
+# trusted only while the title/url names no other year. Boundaries use digit
+# lookarounds rather than \b so a year glued to an underscore or ID suffix
+# (e.g. Workday's "...-June-2026_R00319370") is still detected; \b treats
+# "_" as a word character and would miss that case.
+OTHER_YEAR_RE = re.compile(r"(?<!\d)(202[0-6]|202[89]|203\d)(?!\d)")
 
 
 def parse(payload: list[dict[str, Any]], repo: str, now: datetime) -> list[Listing]:
@@ -36,6 +39,8 @@ def parse(payload: list[dict[str, Any]], repo: str, now: datetime) -> list[Listi
         if not is_summer_2027:
             continue
         if OTHER_YEAR_RE.search(title) and "2027" not in title:
+            continue
+        if OTHER_YEAR_RE.search(url) and "2027" not in url:
             continue
         if not (url and is_internship(title) and is_us(locations)):
             continue

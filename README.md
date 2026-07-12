@@ -12,22 +12,19 @@ Closed roles move to [ARCHIVED.md](ARCHIVED.md).
 Want a company added? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 <!-- LISTINGS:START -->
-_Last updated: 2026-07-12 22:12 UTC — 55 open positions_
+_Last updated: 2026-07-12 22:32 UTC — 58 open positions_
 
 ## 💻 Software Engineering
 
 | Company | Role | Location | Posted | Apply |
 | --- | --- | --- | --- | --- |
-| 🆕 ABC News | Product Management and Engineering Intern | New York, NY | Jul 12 | [Apply](https://jobs.disneycareers.com/job/new-york/abc-news-product-management-and-engineering-intern-summer-fall-2026/391/93958488896) |
 | 🆕 Abundant | Software Engineering Intern, Research Focused | San Francisco, CA | Jul 12 | [Apply](https://www.workatastartup.com/jobs/94634) |
 | 🆕 Al Warren Oil Company | Software Developer Intern | Bensenville, IL | Jul 12 | [Apply](https://apply.workable.com/al-warren-oil-company-inc/j/A4487B349D/) |
-| 🆕 Amazon | Robotics - Software Development Engineer Intern/Co-op | Sunnyvale, CA; North Reading, MA; Westboro, MA; Nashville, TN; Austin, TX; Arlington, VA; Bellevue, WA; Seattle, WA | Jul 12 | [Apply](https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1) |
 | 🆕 Anduril | Software Engineer Intern | Atlanta, GA; Boston, MA; Costa Mesa, CA; Irvine, CA; Reston, VA; Seattle, WA | Jul 12 | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) |
 | 🆕 Apple | Software Engineer Intern, Undergrad | United States | Jul 12 | [Apply](https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships) |
 | 🆕 Apple | Software Engineering Intern, Masters | United States | Jul 12 | [Apply](https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships) |
 | 🆕 Aquatic | Software Engineer Intern | Chicago, IL | Jul 12 | [Apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) |
 | 🆕 Aquatic Capital | Software Engineer Intern | Chicago, IL | Jul 12 | [Apply](https://job-boards.greenhouse.io/embed/job_app?for=aquaticcapitalmanagement&jr_id=6a06fd77152f493123c4b595&token=8489233002) |
-| 🆕 Avanade | Software Engineering Intern | Los Angeles, CA; Seattle, WA | Jul 12 | [Apply](https://accenture.wd103.myworkdayjobs.com/en-GB/AvanadeCareers/job/Los-Angeles-6181-W-Centinela-Ave-Corp/Intern--Software-Engineering---June-2026_R00319370?jr_id=69e6a556f8fa2f3ec32a3173) |
 | 🆕 Capital One | Product Development Internship Program | Mclean, VA; Plano, TX | Jul 12 | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Development-Internship-Program---Summer-2027_R246020-1) |
 | 🆕 Citadel | Software Engineer Intern | New York, NY; Greenwich, CT; Miami, FL; Houston, TX | Jul 12 | [Apply](https://www.citadel.com/careers/details/software-engineer-intern-us/) |
 | 🆕 DE Shaw | Software Developer Intern | New York, NY | Jul 12 | [Apply](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894) |
@@ -41,6 +38,9 @@ _Last updated: 2026-07-12 22:12 UTC — 55 open positions_
 | 🆕 General Astronautics | Engineering Intern | San Francisco, CA | Jul 12 | [Apply](https://www.workatastartup.com/jobs/94206) |
 | 🆕 H&CO | Software Development Intern | Coral Gables, FL | Jul 12 | [Apply](https://career41.sapsf.com/career?career_ns=job_listing&company=hcollp&career_job_req_id=3507) |
 | 🆕 IMC | Software Engineer Intern | Chicago, IL | Jul 12 | [Apply](https://www.imc.com/us/careers/jobs/4823924101) |
+| 🆕 Jump Trading | Campus Systems Engineer Intern | Chicago, IL | Jul 12 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8007788) |
+| 🆕 Jump Trading | Software Engineer Intern | Chicago, IL | Jul 12 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8002989) |
+| 🆕 Jump Trading Group | Campus UI Software Engineer Intern | Chicago, IL | Jul 12 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8003019) |
 | 🆕 Kudu Dynamics | Software Engineer Intern | Chantilly, VA | Jul 12 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183714) |
 | 🆕 Kudu Dynamics | Software Engineer Intern | Chantilly, VA | Jul 12 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183707) |
 | 🆕 Kudu Dynamics | Software Engineer Intern | Chantilly, VA | Jul 12 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183721) |
@@ -51,6 +51,7 @@ _Last updated: 2026-07-12 22:12 UTC — 55 open positions_
 | 🆕 Optiver | Software Engineer Intern | Austin, TX | Jul 12 | [Apply](https://www.optiver.com/join-us/jobs/technology/austin/software-engineer-intern-summer-2027-austin/) |
 | 🆕 Paragon | Forward Deployed Engineer (FDE) Intern | San Francisco, CA | Jul 12 | [Apply](https://www.workatastartup.com/jobs/93642) |
 | 🆕 Podium | Software Engineering Intern | Lehi, UT | Jul 12 | [Apply](https://job-boards.greenhouse.io/podium81/jobs/7939921) |
+| 🆕 Point72 | Investment Analyst Intern, Point72 Academy | New York, NY; San Francisco, CA; Chicago, IL; West Palm Beach, FL; Miami, FL | Jul 12 | [Apply](https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081) |
 | 🆕 Poshmark | Cloud Platform Engineer Intern, Growth | Redwood City, CA | Jul 12 | [Apply](https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa) |
 | 🆕 Salesforce | Software Engineer Intern(Futureforce Summer 2027) | San Francisco, CA; Palo Alto, CA; New York, NY; Seattle, WA; Burlington, MA | Jul 12 | [Apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1) |
 | 🆕 Skyworks | Analog IC Design Co-op | Irvine, CA | Jul 12 | [Apply](https://careers.skyworksinc.com/job/Irvine-Analog-IC-Design-SummerFall-Co-Op-(June-&apos;26-Dec-&apos;26)-CA-92602/76295-en_US/?feedId=177100) |
@@ -75,8 +76,10 @@ _Last updated: 2026-07-12 22:12 UTC — 55 open positions_
 
 | Company | Role | Location | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| 🆕 Cubist Systematic Strategies | Quantitative Developer Intern | New York, NY | Jul 12 | [Apply](https://job-boards.greenhouse.io/embed/job_app?for=point72&jr_id=6a07069024dcb03739f1ec72&token=7297613002) |
 | 🆕 Jump Trading | Quantitative Trader Intern | Chicago, IL; New York, NY | Jul 12 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7848371) |
 | 🆕 Point72 | Quantitative Developer Intern | New York, NY | Jul 12 | [Apply](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) |
+| 🆕 Point72 | Quantitative Researcher Intern | New York, NY | Jul 12 | [Apply](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) |
 | 🆕 Susquehanna | Trading System Engineering Intern | Bala Cynwyd, PA | Jul 12 | [Apply](https://careers.sig.com/jobs/10837?lang=en-us&mode=apply&iis=LinkedIn&jr_id=69f3d11158b23a2329da8088) |
 | 🆕 Susquehanna Investment Group | Quantitative Strategy Developer Intern | Bala Cynwyd, PA | Jul 12 | [Apply](https://careers.sig.com/intern-co-op-technology/jobs/10838?lang=en-us) |
 | 🆕 Tower Research | Quantitative Developer Intern | Chicago, IL; New York, NY | Jul 12 | [Apply](https://tower-research.com/open-positions/?gh_jid=8044334) |
