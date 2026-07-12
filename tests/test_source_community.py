@@ -24,3 +24,8 @@ def test_parse_tags_source_and_ats():
     assert listing.source == "community:org/repo"
     assert listing.ats == "community"
     assert listing.company == "Acme"
+
+
+def test_parse_drops_entries_whose_title_names_another_year():
+    listings = community.parse(load_fixture("community_listings.json"), "org/repo", NOW)
+    assert not any("555" in item.url for item in listings)

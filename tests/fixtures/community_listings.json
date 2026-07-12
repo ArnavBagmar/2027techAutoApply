@@ -30,5 +30,13 @@
     "url": "https://boards.greenhouse.io/acme/jobs/666",
     "terms": ["Summer 2027"],
     "active": true
+  },
+  {
+    "company_name": "Acme",
+    "title": "Software Engineering Intern - Summer 2026",
+    "locations": ["Austin, TX"],
+    "url": "https://boards.greenhouse.io/acme/jobs/555",
+    "season": "Summer",
+    "active": true
   }
 ]

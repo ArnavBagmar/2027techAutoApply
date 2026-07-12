@@ -1,3 +1,4 @@
+import re
 from datetime import datetime
 from typing import Any
 
@@ -16,6 +17,10 @@ COMMUNITY_SOURCES: dict[str, str] = {
     ),
 }
 
+# Belt-and-suspenders against upstream scope drift: season == "Summer" is
+# trusted only while the title names no other year.
+OTHER_YEAR_RE = re.compile(r"\b(202[0-6]|202[89]|203\d)\b")
+
 
 def parse(payload: list[dict[str, Any]], repo: str, now: datetime) -> list[Listing]:
     listings = []
@@ -30,6 +35,8 @@ def parse(payload: list[dict[str, Any]], repo: str, now: datetime) -> list[Listi
             or "Summer 2027" in (entry.get("terms") or [])
         )
         if not is_summer_2027:
+            continue
+        if OTHER_YEAR_RE.search(title) and "2027" not in title:
             continue
         if not (url and is_internship(title) and is_us(locations)):
             continue
