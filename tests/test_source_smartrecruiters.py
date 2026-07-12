@@ -16,12 +16,8 @@ def load_fixture(name: str):
 
 
 def test_parse_builds_apply_url_and_location():
-    listings = smartrecruiters.parse(
-        load_fixture("smartrecruiters_postings.json"), ACME, NOW
-    )
-    assert [item.url for item in listings] == [
-        "https://jobs.smartrecruiters.com/Acme/744000012345"
-    ]
+    listings = smartrecruiters.parse(load_fixture("smartrecruiters_postings.json"), ACME, NOW)
+    assert [item.url for item in listings] == ["https://jobs.smartrecruiters.com/Acme/744000012345"]
     assert listings[0].locations == ["Santa Clara, CA"]
 
 

@@ -35,9 +35,7 @@ def write_outputs(root: Path, listings: list[Listing], now: datetime) -> None:
         json.dumps(payload, indent=2, sort_keys=True) + "\n"
     )
     readme_path = root / "README.md"
-    readme_path.write_text(
-        inject_section(readme_path.read_text(), render_listings(listings, now))
-    )
+    readme_path.write_text(inject_section(readme_path.read_text(), render_listings(listings, now)))
     (root / "ARCHIVED.md").write_text(render_archived(listings))
 
 

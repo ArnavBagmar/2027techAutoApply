@@ -30,9 +30,8 @@ def parse(payload: list[dict[str, Any]], repo: str, now: datetime) -> list[Listi
         locations = entry.get("locations") or []
         if not entry.get("active", True):
             continue
-        is_summer_2027 = (
-            entry.get("season") == "Summer"
-            or "Summer 2027" in (entry.get("terms") or [])
+        is_summer_2027 = entry.get("season") == "Summer" or "Summer 2027" in (
+            entry.get("terms") or []
         )
         if not is_summer_2027:
             continue

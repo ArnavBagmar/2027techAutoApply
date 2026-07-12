@@ -28,10 +28,7 @@ def _row(listing: Listing, marker: str) -> str:
 
 def render_listings(listings: list[Listing], now: datetime) -> str:
     active = [item for item in listings if item.active]
-    lines = [
-        f"_Last updated: {now.strftime('%Y-%m-%d %H:%M UTC')} — "
-        f"{len(active)} open positions_"
-    ]
+    lines = [f"_Last updated: {now.strftime('%Y-%m-%d %H:%M UTC')} — {len(active)} open positions_"]
     for category, title in CATEGORY_TITLES.items():
         rows = sorted(
             (item for item in active if item.category == category),
@@ -41,9 +38,7 @@ def render_listings(listings: list[Listing], now: datetime) -> str:
         if not rows:
             continue
         lines += ["", f"## {title}", ""] + TABLE_HEADER
-        lines += [
-            _row(item, "🆕 " if now - item.first_seen < NEW_WINDOW else "") for item in rows
-        ]
+        lines += [_row(item, "🆕 " if now - item.first_seen < NEW_WINDOW else "") for item in rows]
     return "\n".join(lines)
 
 
