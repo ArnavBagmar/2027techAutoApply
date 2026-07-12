@@ -9,7 +9,7 @@ class GreenhouseAdapter:
 
     def matches(self, url: str) -> bool:
         host = urlsplit(url).netloc.lower()
-        return host.endswith("greenhouse.io")
+        return host == "greenhouse.io" or host.endswith(".greenhouse.io")
 
     def plan(self, profile: Profile) -> list[FillAction]:
         actions = [

@@ -22,6 +22,7 @@ def test_matches_greenhouse_urls():
     assert adapter.matches("https://boards.greenhouse.io/acme/jobs/1")
     assert adapter.matches("https://job-boards.greenhouse.io/acme/jobs/1")
     assert not adapter.matches("https://jobs.lever.co/acme/1")
+    assert not adapter.matches("https://evilgreenhouse.io/acme/jobs/1")
 
 
 def test_registered_in_registry():
