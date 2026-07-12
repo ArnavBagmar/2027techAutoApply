@@ -1,0 +1,7 @@
+__pycache__/
+*.egg-info/
+.coverage
+.venv/
+profile.yaml
+applied.json
+.browser-profile/
