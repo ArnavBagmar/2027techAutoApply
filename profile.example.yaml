@@ -1,0 +1,17 @@
+first_name: Ada
+last_name: Lovelace
+email: ada@example.com
+phone: "555-0100"
+education:
+  school: Your University
+  degree: BS
+  major: Computer Science
+  grad_year: 2028
+work_authorized_us: true
+needs_sponsorship: false
+linkedin: https://linkedin.com/in/yourhandle
+github: https://github.com/yourhandle
+website: ""
+resume_path: /absolute/path/to/resume.pdf
+default_answers:
+  how_did_you_hear: GitHub
