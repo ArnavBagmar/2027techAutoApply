@@ -1,4 +1,6 @@
 import json
+import os
+import tempfile
 from datetime import datetime
 from pathlib import Path
 from typing import Literal
@@ -25,7 +27,16 @@ def load_state(path: Path) -> dict[str, Record]:
 
 def save_state(path: Path, state: dict[str, Record]) -> None:
     payload = {key: record.model_dump(mode="json") for key, record in state.items()}
-    path.write_text(json.dumps(payload, indent=2, sort_keys=True) + "\n")
+    text = json.dumps(payload, indent=2, sort_keys=True) + "\n"
+    directory = path.parent if str(path.parent) else Path(".")
+    fd, tmp_name = tempfile.mkstemp(prefix=f".{path.name}.", suffix=".tmp", dir=directory)
+    try:
+        with os.fdopen(fd, "w") as handle:
+            handle.write(text)
+        os.replace(tmp_name, path)
+    except BaseException:
+        Path(tmp_name).unlink(missing_ok=True)
+        raise
 
 
 def with_status(
@@ -38,6 +49,6 @@ def with_status(
 def select_pending(listings: list[Listing], state: dict[str, Record]) -> list[Listing]:
     def is_pending(listing: Listing) -> bool:
         record = state.get(listing.id)
-        return record is None or record.status == "pending"
+        return record is None or record.status in ("pending", "filled")
 
     return [item for item in listings if item.active and is_pending(item)]
