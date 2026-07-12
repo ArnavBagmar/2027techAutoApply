@@ -1,0 +1,853 @@
+[
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "ABC News",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "d0a905bc3e702c9ec5ae5f0acd8e36742f100192",
+    "locations": [
+      "New York, NY"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Product Management and Engineering Intern",
+    "url": "https://jobs.disneycareers.com/job/new-york/abc-news-product-management-and-engineering-intern-summer-fall-2026/391/93958488896"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "Abundant",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "a275025431c6d2067e9268798a523b2d0a96bd10",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Software Engineering Intern, Research Focused",
+    "url": "https://www.workatastartup.com/jobs/94634"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "Al Warren Oil Company",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "dc8924a3439371712ba67962f5a6cbb6d0d2ab65",
+    "locations": [
+      "Bensenville, IL"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Software Developer Intern",
+    "url": "https://apply.workable.com/al-warren-oil-company-inc/j/A4487B349D/"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "Amazon",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "1264c499aae5ab0aee8c7dca186384b5ec83fbea",
+    "locations": [
+      "Sunnyvale, CA",
+      "North Reading, MA",
+      "Westboro, MA",
+      "Nashville, TN",
+      "Austin, TX",
+      "Arlington, VA",
+      "Bellevue, WA",
+      "Seattle, WA"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Robotics - Software Development Engineer Intern/Co-op",
+    "url": "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "Anduril",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "8e5113dd4d6c6e4a16b55fa1c7c8070b723e069c",
+    "locations": [
+      "Atlanta, GA",
+      "Boston, MA",
+      "Costa Mesa, CA",
+      "Irvine, CA",
+      "Reston, VA",
+      "Seattle, WA"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Software Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "Apple",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "50a0a2b12b804fc5f6c49428514b36696bd7552f",
+    "locations": [
+      "United States"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Software Engineer Intern, Undergrad",
+    "url": "https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "Apple",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "1a898a087d69b23c0b4eba4ca730c37dd793f586",
+    "locations": [
+      "United States"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Software Engineering Intern, Masters",
+    "url": "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "Aquatic",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "387eea6064d7f0277c29687e2c86c266f339f2b6",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Software Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "Aquatic Capital",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "144ea65a5864a28e401fd547fe7ffa8ce922a97b",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Software Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/embed/job_app?for=aquaticcapitalmanagement&jr_id=6a06fd77152f493123c4b595&token=8489233002"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "Avanade",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "e11bb6ab5f18126af9faef6479d3988599a8e3b9",
+    "locations": [
+      "Los Angeles, CA",
+      "Seattle, WA"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Software Engineering Intern",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-GB/AvanadeCareers/job/Los-Angeles-6181-W-Centinela-Ave-Corp/Intern--Software-Engineering---June-2026_R00319370?jr_id=69e6a556f8fa2f3ec32a3173"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "data-ml",
+    "closed_at": null,
+    "company": "Capital One",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "fd11e0d5e882b52ca21d959b3baf6d52d383978c",
+    "locations": [
+      "Mclean, VA"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Data Analyst Intern",
+    "url": "https://www.capitalonecareers.com/job/mclean/data-analyst-intern-summer-2027/31238/97421687472"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "Capital One",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "dbab5b464bbdec69448ea8c247401d57249a1c26",
+    "locations": [
+      "Mclean, VA",
+      "Plano, TX"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Product Development Internship Program",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Development-Internship-Program---Summer-2027_R246020-1"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "Citadel",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "b7b4a5e780b2688d9dddf922bb92cf3470cc8dca",
+    "locations": [
+      "New York, NY",
+      "Greenwich, CT",
+      "Miami, FL",
+      "Houston, TX"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Software Engineer Intern",
+    "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "DE Shaw",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "316e69e9ae700601711b4392cd79db84d9a68d66",
+    "locations": [
+      "New York, NY"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Software Developer Intern",
+    "url": "https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "Dedalus Labs",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "b424b7e9e0c8055b7a5f1a02c421895c9f96a0ba",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Forward Deployed Engineer Intern",
+    "url": "https://www.workatastartup.com/jobs/94400"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "DimeHealth AI",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "7b734085c00667921d3abab78cc162807c6cb11a",
+    "locations": [
+      "New York, NY"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Forward Deployed Engineering Intern",
+    "url": "https://www.workatastartup.com/jobs/94211"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "hardware",
+    "closed_at": null,
+    "company": "Etched",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "34f1f8689a74af8b7c45775404df0acf24361686",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Firmware Intern",
+    "url": "https://jobs.ashbyhq.com/Etched/8134a9bf-9624-48dd-98be-0bf1c3cb1f55"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "Etched",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "4969ac72c431fcf479ff5184c3181123f39ee40f",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Inference Intern, Architecture",
+    "url": "https://jobs.ashbyhq.com/Etched/aa17bfa2-2922-4aa7-820d-76064f2551a8"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "Etched",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "86fd8e4ce2c6aeccfe0a9ccc1c673899f204deaf",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Infrastructure Intern",
+    "url": "https://jobs.ashbyhq.com/Etched/80926a71-0a62-4bf8-a877-b6d96df279b7"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "Etched",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "76c629ddd4d7738cf81cfbec6d96dddc73da2ddc",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Supercomputing Intern",
+    "url": "https://jobs.ashbyhq.com/Etched/2d7039e2-190e-4039-b5a9-fff9efa7cc8e"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "Fiserv",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "89dc1b8cd80d88706b93835d412d99790cdb0059",
+    "locations": [
+      "Alpharetta, GA"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Application Development Intern",
+    "url": "https://careers.fiserv.com/us/en/job/FFFYJUSR10390264EXTERNALENUS/Application-Development-Summer-Intern?jr_id=69e6ab177820c036924d1dc6"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "Fiserv",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "40138482ca05841210aee32c44c39483e58db97a",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Technology Intern",
+    "url": "https://careers.fiserv.com/us/en/job/FFFYJUSR10390344EXTERNALENUS/Technology-Summer-Intern?jr_id=69e6ab5e3aa0c4796439589b"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "General Astronautics",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "5a95b51abd2ab4c4b8c3931405598f051babb4fb",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Engineering Intern",
+    "url": "https://www.workatastartup.com/jobs/94206"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "H&CO",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "e3483610e2e50ce06712579cf592a182ecc7185e",
+    "locations": [
+      "Coral Gables, FL"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Software Development Intern",
+    "url": "https://career41.sapsf.com/career?career_ns=job_listing&company=hcollp&career_job_req_id=3507"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "data-ml",
+    "closed_at": null,
+    "company": "Homebase",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "2f30c58880f85b1cc7817fa9a118b96adb28ef65",
+    "locations": [
+      "Houston, TX",
+      "San Francisco, CA"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Forward Deployed Engineering Intern, AI-Native",
+    "url": "https://jobs.ashbyhq.com/homebase/a7ab59c0-786e-4675-b684-2ed19b240fb2"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "IMC",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "58efe69a5c5a1afaaaee8fdf489664b5381b92f2",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Software Engineer Intern",
+    "url": "https://www.imc.com/us/careers/jobs/4823924101"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "data-ml",
+    "closed_at": null,
+    "company": "Intercontinental Exchange, Inc.",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "520c075bbc84204a4e1adb3ac5d4822d780fab3b",
+    "locations": [
+      "New York, NY"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Artificial Intelligence, Data & Machine Learning Intern",
+    "url": "https://careers.ice.com/jobs/12830?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply&jr_id=69e67bb27820c036924d0af9"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "quant",
+    "closed_at": null,
+    "company": "Jump Trading",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "b1e58a4116d1ecc753678b15d2e09a0c8deb1bcf",
+    "locations": [
+      "Chicago, IL",
+      "New York, NY"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Quantitative Trader Intern",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=7848371"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "Kudu Dynamics",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "07c1f0a70fb2d00416a2be12cd4fad459b0e6fcf",
+    "locations": [
+      "Chantilly, VA"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Software Engineer Intern",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183714"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "Kudu Dynamics",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "59088d790d70b67ea3c51faf64e2f1a6a2e62316",
+    "locations": [
+      "Chantilly, VA"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Software Engineer Intern",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183707"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "Kudu Dynamics",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "eeb983690c7584ea882616e17348644fde65aadf",
+    "locations": [
+      "Chantilly, VA"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Software Engineer Intern",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183721"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "LiveRamp",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "d4be070087fd251f978581bbec74fd144367f61a",
+    "locations": [
+      "New York, NY"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Software Engineer Intern, Pixel Serving",
+    "url": "https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/New-York/Intern--Software-Engineer---Pixel-Serving_JR012201"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "Nash",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "36f4a509afef77ac6642b1a9b3b114501945b459",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Full Stack Engineering Intern",
+    "url": "https://www.workatastartup.com/jobs/94993"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "Na\u00efve",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "8cecefb14e2f0cc33330d9d31f30d1e895457de2",
+    "locations": [
+      "San Francisco, CA",
+      "Remote"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Software Engineer Intern",
+    "url": "https://www.workatastartup.com/jobs/94647"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "Optiver",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "0212ad5b1d96d2b9341e36320896fc47c3a12a7d",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Software Engineer Intern",
+    "url": "https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "Optiver",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "75582457b4e2e93f8507bf4292ec29930fe973e0",
+    "locations": [
+      "Austin, TX"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Software Engineer Intern",
+    "url": "https://www.optiver.com/join-us/jobs/technology/austin/software-engineer-intern-summer-2027-austin/"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "Paragon",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "6dece643741ccb0f0e30810e4558a83e105c1551",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Forward Deployed Engineer (FDE) Intern",
+    "url": "https://www.workatastartup.com/jobs/93642"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "Podium",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "bfbc3be36c91bddf25f48e819f36e02c7d19f20c",
+    "locations": [
+      "Lehi, UT"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Software Engineering Intern",
+    "url": "https://job-boards.greenhouse.io/podium81/jobs/7939921"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "quant",
+    "closed_at": null,
+    "company": "Point72",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "4db4654c13425dee5e42ce6333cffb902498b595",
+    "locations": [
+      "New York, NY"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Quantitative Developer Intern",
+    "url": "https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "Poshmark",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "dc52bccad5ca34b3ffa4762c4a6f5a8694c1f1f9",
+    "locations": [
+      "Redwood City, CA"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Cloud Platform Engineer Intern, Growth",
+    "url": "https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "Salesforce",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "d4784760122d9a8f6804239352a5f1c6e310e62c",
+    "locations": [
+      "San Francisco, CA",
+      "Palo Alto, CA",
+      "New York, NY",
+      "Seattle, WA",
+      "Burlington, MA"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Software Engineer Intern(Futureforce Summer 2027)",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "Skyworks",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "87d1cadc00147ca0c9daa5b174769de87d6dbb3b",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Analog IC Design Co-op",
+    "url": "https://careers.skyworksinc.com/job/Irvine-Analog-IC-Design-SummerFall-Co-Op-(June-&apos;26-Dec-&apos;26)-CA-92602/76295-en_US/?feedId=177100"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "StarSling",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "78c3a4461c39787a6855b3e51dd94fb55526a98a",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Software Engineer Intern",
+    "url": "https://www.workatastartup.com/jobs/95003"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "Stoke Space",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "f171979d2c448285d240b0b5e1e47b92cc37872d",
+    "locations": [
+      "Kent, WA"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Software Engineer Intern",
+    "url": "https://www.stokespace.com/careers/current-openings/?gh_jid=5987663004&jr_id=69fae0acd21cf86d1e3cd79c"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "quant",
+    "closed_at": null,
+    "company": "Susquehanna",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "c9b7feb368ca4001c5fa2d2f3563f25911972018",
+    "locations": [
+      "Bala Cynwyd, PA"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Trading System Engineering Intern",
+    "url": "https://careers.sig.com/jobs/10837?lang=en-us&mode=apply&iis=LinkedIn&jr_id=69f3d11158b23a2329da8088"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "quant",
+    "closed_at": null,
+    "company": "Susquehanna Investment Group",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "8343b5035c511cd2db829b66b0a0350e0b77d998",
+    "locations": [
+      "Bala Cynwyd, PA"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Quantitative Strategy Developer Intern",
+    "url": "https://careers.sig.com/intern-co-op-technology/jobs/10838?lang=en-us"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "data-ml",
+    "closed_at": null,
+    "company": "Terranox AI",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "a6eab1b84d7ed3edb99a69805f14071c0fb9773c",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Summer Intern - AI/ML Engineering",
+    "url": "https://www.workatastartup.com/jobs/94631"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "hardware",
+    "closed_at": null,
+    "company": "TETRAMEM",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "fe9e72c9fd84e75fd928ceee3b17cca0b94c4351",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Software Engineer Intern, Embedded",
+    "url": "https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "TikTok",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "a36fc99b41f5c3f5ed6d4cdce21a0c5a7e432e42",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "LLM Post-training Engineer Intern, Research & Product",
+    "url": "https://lifeattiktok.com/search/7631599293708126517"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "quant",
+    "closed_at": null,
+    "company": "Tower Research",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "e8731df72bcff2574911701a36ce405ab00b1c7e",
+    "locations": [
+      "Chicago, IL",
+      "New York, NY"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Quantitative Developer Intern",
+    "url": "https://tower-research.com/open-positions/?gh_jid=8044334"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "Trata",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "fa36141bc3c3d71e34bce28515ca0975d86f29f5",
+    "locations": [
+      "San Francisco, CA",
+      "New York, NY"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Research Scientist Intern",
+    "url": "https://www.workatastartup.com/jobs/94620"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "data-ml",
+    "closed_at": null,
+    "company": "Veeam Software",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "5702e6400f6f37ab9ac1225012dd0fa9137e0de3",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Software Engineering Intern, Platform, Security & AI",
+    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857832101"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "Veeam Software",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "1bf020687534608cc0331034a2fdefa036abe8da",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Software Engineering Intern, Policy Engineering",
+    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857828101"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "quant",
+    "closed_at": null,
+    "company": "Voloridge Investment Management",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "e14a16019d698ffbcf0440bf0c35fc323e4fd84f",
+    "locations": [
+      "Jupiter, FL"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Quantitative Developer Intern",
+    "url": "https://voloridge-investment-management.hiringthing.com/job/1013126/quantitative-developer-intern-2027?s=lif&jr_id=69eaa8e4dc35f7132c4ab803"
+  },
+  {
+    "active": true,
+    "ats": "community",
+    "category": "swe",
+    "closed_at": null,
+    "company": "WSP",
+    "first_seen": "2026-07-12T22:12:14.802014Z",
+    "id": "75d70a951cc5576a6c00b79643a2cc2ef143d520",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "source": "community:vanshb03/Summer2027-Internships",
+    "title": "Software Developer Intern",
+    "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86808"
+  }
+]
