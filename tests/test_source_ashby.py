@@ -2,6 +2,8 @@ import json
 from datetime import datetime, timezone
 from pathlib import Path
 
+import pytest
+
 from scraper.models import Company
 from scraper.sources import ashby
 
@@ -17,3 +19,9 @@ def test_parse_skips_unlisted_and_non_intern():
     listings = ashby.parse(load_fixture("ashby_jobs.json"), ACME, NOW)
     assert [item.url for item in listings] == ["https://jobs.ashbyhq.com/acme/1111"]
     assert listings[0].source == "ashby:acme"
+
+
+@pytest.mark.live
+def test_fetch_live_smoke():
+    listings = ashby.fetch(Company(name="Ramp", ats="ashby", board="ramp"), NOW)
+    assert isinstance(listings, list)

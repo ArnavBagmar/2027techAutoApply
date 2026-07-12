@@ -2,6 +2,8 @@ import json
 from datetime import datetime, timezone
 from pathlib import Path
 
+import pytest
+
 from scraper.models import Company
 from scraper.sources import lever
 
@@ -23,3 +25,9 @@ def test_parse_maps_fields():
     assert listing.title == "Software Engineering Intern (Summer 2027)"
     assert listing.locations == ["New York, NY"]
     assert listing.source == "lever:acme"
+
+
+@pytest.mark.live
+def test_fetch_live_smoke():
+    listings = lever.fetch(Company(name="Palantir", ats="lever", board="palantir"), NOW)
+    assert isinstance(listings, list)
