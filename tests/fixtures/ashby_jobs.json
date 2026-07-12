@@ -1,0 +1,22 @@
+{
+  "jobs": [
+    {
+      "title": "Software Engineer Intern - Summer 2027",
+      "jobUrl": "https://jobs.ashbyhq.com/acme/1111",
+      "location": "San Francisco, CA",
+      "isListed": true
+    },
+    {
+      "title": "Software Engineer Intern - Summer 2027",
+      "jobUrl": "https://jobs.ashbyhq.com/acme/2222",
+      "location": "San Francisco, CA",
+      "isListed": false
+    },
+    {
+      "title": "Engineering Manager",
+      "jobUrl": "https://jobs.ashbyhq.com/acme/3333",
+      "location": "San Francisco, CA",
+      "isListed": true
+    }
+  ]
+}
