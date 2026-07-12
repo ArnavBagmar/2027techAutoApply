@@ -1,0 +1,14 @@
+{
+  "content": [
+    {
+      "id": "744000012345",
+      "name": "Software Engineer Intern (Summer 2027)",
+      "location": {"city": "Santa Clara", "region": "CA", "country": "us"}
+    },
+    {
+      "id": "744000067890",
+      "name": "Principal Engineer",
+      "location": {"city": "Santa Clara", "region": "CA", "country": "us"}
+    }
+  ]
+}
