@@ -15,4 +15,4 @@ jobs:
           cache: pip
       - run: pip install -e ".[dev]"
       - run: ruff check . && ruff format --check .
-      - run: pytest -m "not live" --cov=scraper --cov-fail-under=80
+      - run: pytest -m "not live" --cov=scraper --cov=autoapply --cov-fail-under=80
