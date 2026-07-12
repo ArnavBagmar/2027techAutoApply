@@ -1,0 +1,19 @@
+{
+  "jobs": [
+    {
+      "title": "Software Engineering Intern, Summer 2027",
+      "absolute_url": "https://boards.greenhouse.io/acme/jobs/111?gh_src=x",
+      "location": {"name": "San Francisco, CA"}
+    },
+    {
+      "title": "Senior Software Engineer",
+      "absolute_url": "https://boards.greenhouse.io/acme/jobs/222",
+      "location": {"name": "New York, NY"}
+    },
+    {
+      "title": "Software Engineering Intern, Summer 2027",
+      "absolute_url": "https://boards.greenhouse.io/acme/jobs/333",
+      "location": {"name": "London, UK"}
+    }
+  ]
+}
