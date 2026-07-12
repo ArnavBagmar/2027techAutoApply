@@ -6,11 +6,12 @@ import requests
 from scraper.filters import categorize, is_internship, is_us
 from scraper.models import Listing, listing_id
 
-# Verified at implementation time; must point at a machine-readable listings
-# file in a community-maintained Summer 2027 internship repo.
+# The season field is repo-year-scoped: these repos only track one cycle,
+# so season == "Summer" means Summer 2027. SimplifyJobs-format repos use
+# terms == ["Summer 2027"] instead; both are supported.
 COMMUNITY_SOURCES: dict[str, str] = {
-    "SimplifyJobs/Summer2027-Internships": (
-        "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships"
+    "vanshb03/Summer2027-Internships": (
+        "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships"
         "/dev/.github/scripts/listings.json"
     ),
 }
@@ -22,10 +23,13 @@ def parse(payload: list[dict[str, Any]], repo: str, now: datetime) -> list[Listi
         title = entry.get("title") or ""
         url = entry.get("url") or ""
         locations = entry.get("locations") or []
-        terms = entry.get("terms") or []
         if not entry.get("active", True):
             continue
-        if "Summer 2027" not in terms:
+        is_summer_2027 = (
+            entry.get("season") == "Summer"
+            or "Summer 2027" in (entry.get("terms") or [])
+        )
+        if not is_summer_2027:
             continue
         if not (url and is_internship(title) and is_us(locations)):
             continue

@@ -13,7 +13,10 @@ def load_fixture(name: str):
 
 def test_parse_keeps_active_summer_2027_only():
     listings = community.parse(load_fixture("community_listings.json"), "org/repo", NOW)
-    assert [item.url for item in listings] == ["https://boards.greenhouse.io/acme/jobs/999"]
+    assert [item.url for item in listings] == [
+        "https://boards.greenhouse.io/acme/jobs/999",
+        "https://boards.greenhouse.io/acme/jobs/666",
+    ]
 
 
 def test_parse_tags_source_and_ats():
