@@ -1,0 +1,26 @@
+[
+  {
+    "company_name": "Acme",
+    "title": "Software Engineering Intern",
+    "locations": ["Austin, TX"],
+    "url": "https://boards.greenhouse.io/acme/jobs/999",
+    "terms": ["Summer 2027"],
+    "active": true
+  },
+  {
+    "company_name": "Acme",
+    "title": "Software Engineering Intern",
+    "locations": ["Austin, TX"],
+    "url": "https://boards.greenhouse.io/acme/jobs/888",
+    "terms": ["Summer 2026"],
+    "active": true
+  },
+  {
+    "company_name": "Acme",
+    "title": "Software Engineering Intern",
+    "locations": ["Austin, TX"],
+    "url": "https://boards.greenhouse.io/acme/jobs/777",
+    "terms": ["Summer 2027"],
+    "active": false
+  }
+]
