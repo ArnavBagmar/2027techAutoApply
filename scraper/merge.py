@@ -1,5 +1,6 @@
 from datetime import datetime
 
+from scraper.liveness import DEAD_THRESHOLD
 from scraper.models import Listing
 
 
@@ -23,10 +24,17 @@ def merge(
     merged: list[Listing] = []
     for old in previous:
         new = fetched_by_id.pop(old.id, None)
-        if new is not None:
+        if new is not None and old.dead_checks >= DEAD_THRESHOLD:
+            merged.append(old)  # dead link confirmed; upstream still lists it
+        elif new is not None:
             merged.append(
                 new.model_copy(
-                    update={"first_seen": old.first_seen, "active": True, "closed_at": None}
+                    update={
+                        "first_seen": old.first_seen,
+                        "active": True,
+                        "closed_at": None,
+                        "dead_checks": old.dead_checks,
+                    }
                 )
             )
         elif old.active and old.source in sources_ok:

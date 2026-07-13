@@ -65,3 +65,29 @@ def test_merge_does_not_mutate_inputs():
     previous = [make("a")]
     merge(previous, [], NOW, {"greenhouse:acme"})
     assert previous[0].active is True
+
+
+def test_dead_linked_listing_is_never_resurrected():
+    previous = [
+        make(
+            "a",
+            source="community:org/repo",
+            ats="community",
+            active=False,
+            closed_at=EARLIER,
+            dead_checks=2,
+        )
+    ]
+    fetched = [make("a", source="community:org/repo", ats="community", first_seen=NOW)]
+    merged = merge(previous, fetched, NOW, {"community:org/repo"})
+    assert merged[0].active is False
+    assert merged[0].closed_at == EARLIER
+    assert merged[0].dead_checks == 2
+
+
+def test_merge_preserves_dead_checks_on_update():
+    previous = [make("a", source="community:org/repo", ats="community", dead_checks=1)]
+    fetched = [make("a", source="community:org/repo", ats="community", first_seen=NOW)]
+    merged = merge(previous, fetched, NOW, {"community:org/repo"})
+    assert merged[0].active is True
+    assert merged[0].dead_checks == 1
