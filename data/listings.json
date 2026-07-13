@@ -5,6 +5,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Abundant",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "a275025431c6d2067e9268798a523b2d0a96bd10",
     "locations": [
@@ -20,6 +21,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Al Warren Oil Company",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "dc8924a3439371712ba67962f5a6cbb6d0d2ab65",
     "locations": [
@@ -35,6 +37,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Anduril",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "fbf8a2732425daebef9efc19cca9df7305059cc4",
     "locations": [
@@ -55,6 +58,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Apple",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "50a0a2b12b804fc5f6c49428514b36696bd7552f",
     "locations": [
@@ -70,6 +74,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Apple",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "1a898a087d69b23c0b4eba4ca730c37dd793f586",
     "locations": [
@@ -85,6 +90,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Aquatic",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "387eea6064d7f0277c29687e2c86c266f339f2b6",
     "locations": [
@@ -100,6 +106,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Aquatic Capital",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "efdc36158cd155a09d2bd5b4efef4c9a45aa6891",
     "locations": [
@@ -115,6 +122,7 @@
     "category": "data-ml",
     "closed_at": null,
     "company": "Capital One",
+    "dead_checks": 1,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "fd11e0d5e882b52ca21d959b3baf6d52d383978c",
     "locations": [
@@ -130,6 +138,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Capital One",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "dbab5b464bbdec69448ea8c247401d57249a1c26",
     "locations": [
@@ -146,6 +155,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Citadel",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "b7b4a5e780b2688d9dddf922bb92cf3470cc8dca",
     "locations": [
@@ -164,6 +174,7 @@
     "category": "quant",
     "closed_at": null,
     "company": "Cubist Systematic Strategies",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "f01b19efe8908c79c1841125c8899895b5da420f",
     "locations": [
@@ -179,6 +190,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "DE Shaw",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "316e69e9ae700601711b4392cd79db84d9a68d66",
     "locations": [
@@ -194,6 +206,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Dedalus Labs",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "b424b7e9e0c8055b7a5f1a02c421895c9f96a0ba",
     "locations": [
@@ -209,6 +222,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "DimeHealth AI",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "7b734085c00667921d3abab78cc162807c6cb11a",
     "locations": [
@@ -224,6 +238,7 @@
     "category": "hardware",
     "closed_at": null,
     "company": "Etched",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "34f1f8689a74af8b7c45775404df0acf24361686",
     "locations": [
@@ -239,6 +254,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Etched",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "4969ac72c431fcf479ff5184c3181123f39ee40f",
     "locations": [
@@ -254,6 +270,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Etched",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "86fd8e4ce2c6aeccfe0a9ccc1c673899f204deaf",
     "locations": [
@@ -269,6 +286,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Etched",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "76c629ddd4d7738cf81cfbec6d96dddc73da2ddc",
     "locations": [
@@ -284,6 +302,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Fiserv",
+    "dead_checks": 1,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "ad0c1cc44e74b70c5e2c5156611476bc9911d09a",
     "locations": [
@@ -299,6 +318,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Fiserv",
+    "dead_checks": 1,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "b8eebb6743866c0a49c5dc28f1c5bce0023f4e50",
     "locations": [
@@ -314,6 +334,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "General Astronautics",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "5a95b51abd2ab4c4b8c3931405598f051babb4fb",
     "locations": [
@@ -329,6 +350,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "H&CO",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "c05d5c66c9fc24f3ffb475bbb5ff058ecb69e051",
     "locations": [
@@ -344,6 +366,7 @@
     "category": "data-ml",
     "closed_at": null,
     "company": "Homebase",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "2f30c58880f85b1cc7817fa9a118b96adb28ef65",
     "locations": [
@@ -360,6 +383,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "IMC",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "58efe69a5c5a1afaaaee8fdf489664b5381b92f2",
     "locations": [
@@ -375,6 +399,7 @@
     "category": "data-ml",
     "closed_at": null,
     "company": "Intercontinental Exchange, Inc.",
+    "dead_checks": 1,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "f935cf4524a3b6345db47ddc99df33cc23f10c13",
     "locations": [
@@ -390,6 +415,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Jump Trading",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "5098e31d4945c168ed16a7263cd4fe8ab9149d52",
     "locations": [
@@ -405,6 +431,7 @@
     "category": "quant",
     "closed_at": null,
     "company": "Jump Trading",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "91b1c350a736df6462c7277a841564c4b909278d",
     "locations": [
@@ -421,6 +448,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Jump Trading",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "295be15e1382ea14d2dfb6e6d7c72f4206de16f5",
     "locations": [
@@ -436,6 +464,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Jump Trading Group",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "76b32d52daaae059338c20106a26a797fa1b7b32",
     "locations": [
@@ -451,6 +480,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Kudu Dynamics",
+    "dead_checks": 1,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "07c1f0a70fb2d00416a2be12cd4fad459b0e6fcf",
     "locations": [
@@ -466,6 +496,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Kudu Dynamics",
+    "dead_checks": 1,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "59088d790d70b67ea3c51faf64e2f1a6a2e62316",
     "locations": [
@@ -481,6 +512,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Kudu Dynamics",
+    "dead_checks": 1,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "eeb983690c7584ea882616e17348644fde65aadf",
     "locations": [
@@ -496,6 +528,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "LiveRamp",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "d4be070087fd251f978581bbec74fd144367f61a",
     "locations": [
@@ -511,6 +544,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Nash",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "36f4a509afef77ac6642b1a9b3b114501945b459",
     "locations": [
@@ -526,6 +560,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Na\u00efve",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "8cecefb14e2f0cc33330d9d31f30d1e895457de2",
     "locations": [
@@ -542,6 +577,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Optiver",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "0212ad5b1d96d2b9341e36320896fc47c3a12a7d",
     "locations": [
@@ -557,6 +593,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Optiver",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "75582457b4e2e93f8507bf4292ec29930fe973e0",
     "locations": [
@@ -572,6 +609,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Paragon",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "6dece643741ccb0f0e30810e4558a83e105c1551",
     "locations": [
@@ -587,6 +625,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Podium",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "bfbc3be36c91bddf25f48e819f36e02c7d19f20c",
     "locations": [
@@ -602,6 +641,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Point72",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "67aedee7d6dc8556642c0d019783f9c98d8c5bb4",
     "locations": [
@@ -621,6 +661,7 @@
     "category": "quant",
     "closed_at": null,
     "company": "Point72",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "251025f7ce954f7ded2eeed7b802bfedc01fff5f",
     "locations": [
@@ -636,6 +677,7 @@
     "category": "quant",
     "closed_at": null,
     "company": "Point72",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "a97c77faf28cc9f094ad58beb62181c0efb9013d",
     "locations": [
@@ -651,6 +693,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Poshmark",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "dc52bccad5ca34b3ffa4762c4a6f5a8694c1f1f9",
     "locations": [
@@ -666,6 +709,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Salesforce",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "d4784760122d9a8f6804239352a5f1c6e310e62c",
     "locations": [
@@ -685,6 +729,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Skyworks",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "a63a956e624c1f7610bb8251aaaab5d4c000033f",
     "locations": [
@@ -700,6 +745,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "StarSling",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "78c3a4461c39787a6855b3e51dd94fb55526a98a",
     "locations": [
@@ -715,6 +761,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Stoke Space",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "0988031f6a042975c82a16772a60006796435ec0",
     "locations": [
@@ -730,6 +777,7 @@
     "category": "quant",
     "closed_at": null,
     "company": "Susquehanna",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "0804861d23bb449241e582e1cb6f7c1a918d19dd",
     "locations": [
@@ -745,6 +793,7 @@
     "category": "quant",
     "closed_at": null,
     "company": "Susquehanna Investment Group",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "a335680e28389635c38b4d17591a1af0962a4f7d",
     "locations": [
@@ -760,6 +809,7 @@
     "category": "data-ml",
     "closed_at": null,
     "company": "Terranox AI",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "a6eab1b84d7ed3edb99a69805f14071c0fb9773c",
     "locations": [
@@ -775,6 +825,7 @@
     "category": "hardware",
     "closed_at": null,
     "company": "TETRAMEM",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "4009fa413716f52be1098761cb74e8671e13db8e",
     "locations": [
@@ -790,6 +841,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "TikTok",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "a36fc99b41f5c3f5ed6d4cdce21a0c5a7e432e42",
     "locations": [
@@ -805,6 +857,7 @@
     "category": "quant",
     "closed_at": null,
     "company": "Tower Research",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "d2babfbbf11963fc9d6d865b399fac0c339e154d",
     "locations": [
@@ -821,6 +874,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Trata",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "fa36141bc3c3d71e34bce28515ca0975d86f29f5",
     "locations": [
@@ -837,6 +891,7 @@
     "category": "data-ml",
     "closed_at": null,
     "company": "Veeam Software",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "5702e6400f6f37ab9ac1225012dd0fa9137e0de3",
     "locations": [
@@ -852,6 +907,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "Veeam Software",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "1bf020687534608cc0331034a2fdefa036abe8da",
     "locations": [
@@ -867,6 +923,7 @@
     "category": "quant",
     "closed_at": null,
     "company": "Voloridge Investment Management",
+    "dead_checks": 1,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "9d8be028b9766f61d3dd28c9765213f28d27cb23",
     "locations": [
@@ -882,6 +939,7 @@
     "category": "swe",
     "closed_at": null,
     "company": "WSP",
+    "dead_checks": 0,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "75d70a951cc5576a6c00b79643a2cc2ef143d520",
     "locations": [

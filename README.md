@@ -12,7 +12,7 @@ Closed roles move to [ARCHIVED.md](ARCHIVED.md).
 Want a company added? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 <!-- LISTINGS:START -->
-_Last updated: 2026-07-12 22:32 UTC — 58 open positions_
+_Last updated: 2026-07-13 02:52 UTC — 58 open positions_
 
 ## 💻 Software Engineering
 
