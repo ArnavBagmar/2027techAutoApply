@@ -51,3 +51,19 @@ def test_canonical_url_sorts_params_and_strips_utm():
 
 def test_canonical_url_bare_domain():
     assert canonical_url("https://Example.com/") == "https://example.com"
+
+
+def test_listing_dead_checks_defaults_to_zero():
+    listing = Listing(
+        id="a" * 40,
+        company="Acme",
+        title="SWE Intern, Summer 2027",
+        category="swe",
+        locations=["San Francisco, CA"],
+        url="https://example.com/job/1",
+        ats="community",
+        source="community:org/repo",
+        first_seen=datetime(2026, 7, 12, tzinfo=timezone.utc),
+    )
+    assert listing.dead_checks == 0
+    assert listing.model_dump(mode="json")["dead_checks"] == 0

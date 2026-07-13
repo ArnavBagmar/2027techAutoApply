@@ -29,6 +29,7 @@ class Listing(BaseModel):
     first_seen: datetime
     active: bool = True
     closed_at: datetime | None = None
+    dead_checks: int = 0
 
 
 TRACKING_PARAMS = frozenset(
