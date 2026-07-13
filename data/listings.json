@@ -117,12 +117,12 @@
     "url": "https://job-boards.greenhouse.io/embed/job_app?for=aquaticcapitalmanagement&jr_id=6a06fd77152f493123c4b595&token=8489233002"
   },
   {
-    "active": true,
+    "active": false,
     "ats": "community",
     "category": "data-ml",
-    "closed_at": null,
+    "closed_at": "2026-07-13T06:15:02.305970Z",
     "company": "Capital One",
-    "dead_checks": 1,
+    "dead_checks": 2,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "fd11e0d5e882b52ca21d959b3baf6d52d383978c",
     "locations": [
@@ -297,12 +297,12 @@
     "url": "https://jobs.ashbyhq.com/Etched/2d7039e2-190e-4039-b5a9-fff9efa7cc8e"
   },
   {
-    "active": true,
+    "active": false,
     "ats": "community",
     "category": "swe",
-    "closed_at": null,
+    "closed_at": "2026-07-13T06:15:02.305970Z",
     "company": "Fiserv",
-    "dead_checks": 1,
+    "dead_checks": 2,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "ad0c1cc44e74b70c5e2c5156611476bc9911d09a",
     "locations": [
@@ -313,12 +313,12 @@
     "url": "https://careers.fiserv.com/us/en/job/FFFYJUSR10390264EXTERNALENUS/Application-Development-Summer-Intern?jr_id=69e6ab177820c036924d1dc6"
   },
   {
-    "active": true,
+    "active": false,
     "ats": "community",
     "category": "swe",
-    "closed_at": null,
+    "closed_at": "2026-07-13T06:15:02.305970Z",
     "company": "Fiserv",
-    "dead_checks": 1,
+    "dead_checks": 2,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "b8eebb6743866c0a49c5dc28f1c5bce0023f4e50",
     "locations": [
@@ -394,12 +394,12 @@
     "url": "https://www.imc.com/us/careers/jobs/4823924101"
   },
   {
-    "active": true,
+    "active": false,
     "ats": "community",
     "category": "data-ml",
-    "closed_at": null,
+    "closed_at": "2026-07-13T06:15:02.305970Z",
     "company": "Intercontinental Exchange, Inc.",
-    "dead_checks": 1,
+    "dead_checks": 2,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "f935cf4524a3b6345db47ddc99df33cc23f10c13",
     "locations": [
@@ -475,12 +475,12 @@
     "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019"
   },
   {
-    "active": true,
+    "active": false,
     "ats": "community",
     "category": "swe",
-    "closed_at": null,
+    "closed_at": "2026-07-13T06:15:02.305970Z",
     "company": "Kudu Dynamics",
-    "dead_checks": 1,
+    "dead_checks": 2,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "07c1f0a70fb2d00416a2be12cd4fad459b0e6fcf",
     "locations": [
@@ -491,12 +491,12 @@
     "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183714"
   },
   {
-    "active": true,
+    "active": false,
     "ats": "community",
     "category": "swe",
-    "closed_at": null,
+    "closed_at": "2026-07-13T06:15:02.305970Z",
     "company": "Kudu Dynamics",
-    "dead_checks": 1,
+    "dead_checks": 2,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "59088d790d70b67ea3c51faf64e2f1a6a2e62316",
     "locations": [
@@ -507,12 +507,12 @@
     "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183707"
   },
   {
-    "active": true,
+    "active": false,
     "ats": "community",
     "category": "swe",
-    "closed_at": null,
+    "closed_at": "2026-07-13T06:15:02.305970Z",
     "company": "Kudu Dynamics",
-    "dead_checks": 1,
+    "dead_checks": 2,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "eeb983690c7584ea882616e17348644fde65aadf",
     "locations": [
@@ -918,12 +918,12 @@
     "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857828101"
   },
   {
-    "active": true,
+    "active": false,
     "ats": "community",
     "category": "quant",
-    "closed_at": null,
+    "closed_at": "2026-07-13T06:15:02.305970Z",
     "company": "Voloridge Investment Management",
-    "dead_checks": 1,
+    "dead_checks": 2,
     "first_seen": "2026-07-12T22:32:31.308483Z",
     "id": "9d8be028b9766f61d3dd28c9765213f28d27cb23",
     "locations": [

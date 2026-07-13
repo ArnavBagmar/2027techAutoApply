@@ -12,7 +12,7 @@ Closed roles move to [ARCHIVED.md](ARCHIVED.md).
 Want a company added? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 <!-- LISTINGS:START -->
-_Last updated: 2026-07-13 02:52 UTC — 58 open positions_
+_Last updated: 2026-07-13 06:15 UTC — 50 open positions_
 
 ## 💻 Software Engineering
 
@@ -33,17 +33,12 @@ _Last updated: 2026-07-13 02:52 UTC — 58 open positions_
 | 🆕 Etched | Inference Intern, Architecture | San Jose, CA | Jul 12 | [Apply](https://jobs.ashbyhq.com/Etched/aa17bfa2-2922-4aa7-820d-76064f2551a8) |
 | 🆕 Etched | Infrastructure Intern | San Jose, CA | Jul 12 | [Apply](https://jobs.ashbyhq.com/Etched/80926a71-0a62-4bf8-a877-b6d96df279b7) |
 | 🆕 Etched | Supercomputing Intern | San Jose, CA | Jul 12 | [Apply](https://jobs.ashbyhq.com/Etched/2d7039e2-190e-4039-b5a9-fff9efa7cc8e) |
-| 🆕 Fiserv | Application Development Intern | Alpharetta, GA | Jul 12 | [Apply](https://careers.fiserv.com/us/en/job/FFFYJUSR10390264EXTERNALENUS/Application-Development-Summer-Intern?jr_id=69e6ab177820c036924d1dc6) |
-| 🆕 Fiserv | Technology Intern | Columbus, OH | Jul 12 | [Apply](https://careers.fiserv.com/us/en/job/FFFYJUSR10390344EXTERNALENUS/Technology-Summer-Intern?jr_id=69e6ab5e3aa0c4796439589b) |
 | 🆕 General Astronautics | Engineering Intern | San Francisco, CA | Jul 12 | [Apply](https://www.workatastartup.com/jobs/94206) |
 | 🆕 H&CO | Software Development Intern | Coral Gables, FL | Jul 12 | [Apply](https://career41.sapsf.com/career?career_ns=job_listing&company=hcollp&career_job_req_id=3507) |
 | 🆕 IMC | Software Engineer Intern | Chicago, IL | Jul 12 | [Apply](https://www.imc.com/us/careers/jobs/4823924101) |
 | 🆕 Jump Trading | Campus Systems Engineer Intern | Chicago, IL | Jul 12 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8007788) |
 | 🆕 Jump Trading | Software Engineer Intern | Chicago, IL | Jul 12 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8002989) |
 | 🆕 Jump Trading Group | Campus UI Software Engineer Intern | Chicago, IL | Jul 12 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8003019) |
-| 🆕 Kudu Dynamics | Software Engineer Intern | Chantilly, VA | Jul 12 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183714) |
-| 🆕 Kudu Dynamics | Software Engineer Intern | Chantilly, VA | Jul 12 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183707) |
-| 🆕 Kudu Dynamics | Software Engineer Intern | Chantilly, VA | Jul 12 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183721) |
 | 🆕 LiveRamp | Software Engineer Intern, Pixel Serving | New York, NY | Jul 12 | [Apply](https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/New-York/Intern--Software-Engineer---Pixel-Serving_JR012201) |
 | 🆕 Nash | Full Stack Engineering Intern | San Francisco, CA | Jul 12 | [Apply](https://www.workatastartup.com/jobs/94993) |
 | 🆕 Naïve | Software Engineer Intern | San Francisco, CA; Remote | Jul 12 | [Apply](https://www.workatastartup.com/jobs/94647) |
@@ -66,9 +61,7 @@ _Last updated: 2026-07-13 02:52 UTC — 58 open positions_
 
 | Company | Role | Location | Posted | Apply |
 | --- | --- | --- | --- | --- |
-| 🆕 Capital One | Data Analyst Intern | Mclean, VA | Jul 12 | [Apply](https://www.capitalonecareers.com/job/mclean/data-analyst-intern-summer-2027/31238/97421687472) |
 | 🆕 Homebase | Forward Deployed Engineering Intern, AI-Native | Houston, TX; San Francisco, CA | Jul 12 | [Apply](https://jobs.ashbyhq.com/homebase/a7ab59c0-786e-4675-b684-2ed19b240fb2) |
-| 🆕 Intercontinental Exchange, Inc. | Artificial Intelligence, Data & Machine Learning Intern | New York, NY | Jul 12 | [Apply](https://careers.ice.com/jobs/12830?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply&jr_id=69e67bb27820c036924d0af9) |
 | 🆕 Terranox AI | Summer Intern - AI/ML Engineering | San Francisco, CA | Jul 12 | [Apply](https://www.workatastartup.com/jobs/94631) |
 | 🆕 Veeam Software | Software Engineering Intern, Platform, Security & AI | San Jose, CA | Jul 12 | [Apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857832101) |
 
@@ -83,7 +76,6 @@ _Last updated: 2026-07-13 02:52 UTC — 58 open positions_
 | 🆕 Susquehanna | Trading System Engineering Intern | Bala Cynwyd, PA | Jul 12 | [Apply](https://careers.sig.com/jobs/10837?lang=en-us&mode=apply&iis=LinkedIn&jr_id=69f3d11158b23a2329da8088) |
 | 🆕 Susquehanna Investment Group | Quantitative Strategy Developer Intern | Bala Cynwyd, PA | Jul 12 | [Apply](https://careers.sig.com/intern-co-op-technology/jobs/10838?lang=en-us) |
 | 🆕 Tower Research | Quantitative Developer Intern | Chicago, IL; New York, NY | Jul 12 | [Apply](https://tower-research.com/open-positions/?gh_jid=8044334) |
-| 🆕 Voloridge Investment Management | Quantitative Developer Intern | Jupiter, FL | Jul 12 | [Apply](https://voloridge-investment-management.hiringthing.com/job/1013126/quantitative-developer-intern-2027?s=lif&jr_id=69eaa8e4dc35f7132c4ab803) |
 
 ## 🔧 Hardware & Embedded
 
