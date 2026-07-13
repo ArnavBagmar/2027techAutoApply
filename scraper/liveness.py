@@ -1,8 +1,13 @@
 import re
-from typing import Literal
+from collections.abc import Callable
+from concurrent.futures import ThreadPoolExecutor
+from datetime import datetime
+from typing import Literal, NamedTuple
 from urllib.parse import urlsplit
 
 import requests
+
+from scraper.models import Listing
 
 Verdict = Literal["alive", "dead", "unknown"]
 
@@ -67,3 +72,47 @@ def check_url(url: str, timeout: float = TIMEOUT) -> Verdict:
         return classify_response(response.status_code, response.text)
     except Exception:  # any failure is inconclusive, never "dead"
         return "unknown"
+
+
+MAX_WORKERS = 8
+
+
+class LivenessStats(NamedTuple):
+    checked: int
+    dead: int
+    archived: int
+
+
+def _apply_verdict(listing: Listing, verdict: Verdict, is_new: bool, now: datetime) -> Listing:
+    if verdict != "dead":
+        return listing.model_copy(update={"dead_checks": 0})
+    checks = DEAD_THRESHOLD if is_new else listing.dead_checks + 1
+    if checks >= DEAD_THRESHOLD:
+        return listing.model_copy(update={"dead_checks": checks, "active": False, "closed_at": now})
+    return listing.model_copy(update={"dead_checks": checks})
+
+
+def run_liveness(
+    listings: list[Listing],
+    previous_ids: set[str],
+    now: datetime,
+    check: Callable[[str], Verdict] = check_url,
+) -> tuple[list[Listing], LivenessStats]:
+    targets = [item for item in listings if item.active and item.source.startswith("community:")]
+    if not targets:
+        return listings, LivenessStats(checked=0, dead=0, archived=0)
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as pool:
+        verdicts = dict(
+            zip([item.id for item in targets], pool.map(lambda item: check(item.url), targets))
+        )
+    updated = [
+        _apply_verdict(item, verdicts[item.id], item.id not in previous_ids, now)
+        if item.id in verdicts
+        else item
+        for item in listings
+    ]
+    archived = sum(
+        1 for before, after in zip(listings, updated) if before.active and not after.active
+    )
+    dead = sum(1 for verdict in verdicts.values() if verdict == "dead")
+    return updated, LivenessStats(checked=len(targets), dead=dead, archived=archived)
