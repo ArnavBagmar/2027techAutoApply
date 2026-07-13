@@ -46,6 +46,7 @@ def report(
     previous_ids: set[str],
     failures: list[str],
     liveness_stats: LivenessStats,
+    liveness_note: str = "",
 ) -> None:
     new = sum(1 for item in merged if item.active and item.id not in previous_ids)
     open_count = sum(1 for item in merged if item.active)
@@ -55,6 +56,7 @@ def report(
         (
             f"- liveness: checked {liveness_stats.checked}, "
             f"dead {liveness_stats.dead}, archived {liveness_stats.archived}"
+            f"{liveness_note}"
         ),
         f"- failed sources: {len(failures)}",
     ] + [f"  - {failure}" for failure in failures]
@@ -95,13 +97,15 @@ def run(root: Path, now: datetime) -> int:
 
     merged = merge(previous, fetched, now, sources_ok)
     previous_ids = {item.id for item in previous}
+    liveness_note = ""
     try:
         merged, liveness_stats = run_liveness(merged, previous_ids, now, check=liveness.check_url)
     except Exception as error:  # a broken checker must never block the publish
-        print(f"liveness step failed, skipping: {error}", file=sys.stderr)
+        print(f"liveness step failed, skipping: {error!r}", file=sys.stderr)
         liveness_stats = LivenessStats(checked=0, dead=0, archived=0)
+        liveness_note = " (step failed, see logs)"
     write_outputs(root, merged, now)
-    report(merged, previous_ids, failures, liveness_stats)
+    report(merged, previous_ids, failures, liveness_stats, liveness_note=liveness_note)
     return 0
 
 

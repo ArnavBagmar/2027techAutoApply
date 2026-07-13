@@ -15,10 +15,26 @@ from scraper.liveness import (
 from scraper.models import Listing
 
 
+class FakeRaw:
+    def __init__(self, data: bytes):
+        self._data = data
+
+    def read(self, n: int, decode_content: bool = True) -> bytes:
+        return self._data[:n]
+
+
 class FakeResponse:
     def __init__(self, status_code: int, text: str = "job page"):
         self.status_code = status_code
         self.text = text
+        self.encoding = "utf-8"
+        self.raw = FakeRaw(text.encode("utf-8"))
+
+    def __enter__(self) -> "FakeResponse":
+        return self
+
+    def __exit__(self, *exc_info: object) -> None:
+        return None
 
 
 @pytest.mark.parametrize(
@@ -178,6 +194,14 @@ def test_alive_resets_dead_checks():
     updated, _ = run_liveness([listing], {"com1"}, NOW, lambda url: "alive")
     assert updated[0].dead_checks == 0
     assert updated[0].active is True
+
+
+def test_new_unknown_listing_is_published():
+    listing = make_listing("new1")
+    updated, stats = run_liveness([listing], set(), NOW, lambda url: "unknown")
+    assert updated[0].active is True
+    assert updated[0].dead_checks == 0
+    assert stats == LivenessStats(checked=1, dead=0, archived=0)
 
 
 def test_unknown_never_counts_toward_archival():

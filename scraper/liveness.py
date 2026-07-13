@@ -28,7 +28,13 @@ TOMBSTONE_RE = re.compile(
     re.IGNORECASE,
 )
 
+# Known limitation: only the tenant.wdN.myworkdayjobs.com shape is special-cased
+# here. Other Workday-hosted shapes (e.g. *.myworkdaysite.com) fall back to the
+# generic HTML check, which can only miss archivals, never false-archive.
 WORKDAY_HOST_RE = re.compile(r"^[a-z0-9-]+\.wd\d+\.myworkdayjobs\.com$", re.IGNORECASE)
+
+# Tombstone text appears well within the first 256 KiB.
+MAX_BODY_BYTES = 262_144
 
 
 def workday_cxs_url(url: str) -> str | None:
@@ -46,10 +52,11 @@ def workday_cxs_url(url: str) -> str | None:
     job_index = segments.index("job")
     if job_index == 0 or job_index == len(segments) - 1:
         return None
-    tenant = parts.netloc.split(".")[0]
+    netloc = parts.netloc.lower()
+    tenant = netloc.split(".")[0]
     site = segments[job_index - 1]
     rest = "/".join(segments[job_index + 1 :])
-    return f"https://{parts.netloc}/wday/cxs/{tenant}/{site}/job/{rest}"
+    return f"https://{netloc}/wday/cxs/{tenant}/{site}/job/{rest}"
 
 
 def classify_response(status: int, body: str) -> Verdict:
@@ -61,15 +68,22 @@ def classify_response(status: int, body: str) -> Verdict:
 
 
 def check_url(url: str, timeout: float = TIMEOUT) -> Verdict:
-    target = workday_cxs_url(url) or url
     try:
-        response = requests.get(
+        target = workday_cxs_url(url) or url
+        with requests.get(
             target,
             timeout=timeout,
             headers={"User-Agent": USER_AGENT},
             allow_redirects=True,
-        )
-        return classify_response(response.status_code, response.text)
+            stream=True,
+        ) as response:
+            raw = getattr(response, "raw", None)
+            if raw is not None:
+                body_bytes = raw.read(MAX_BODY_BYTES, decode_content=True)
+                body = body_bytes.decode(response.encoding or "utf-8", errors="replace")
+            else:
+                body = response.text[:MAX_BODY_BYTES]
+            return classify_response(response.status_code, body)
     except Exception:  # any failure is inconclusive, never "dead"
         return "unknown"
 
