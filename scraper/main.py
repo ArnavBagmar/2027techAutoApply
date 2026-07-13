@@ -6,6 +6,8 @@ from pathlib import Path
 
 import yaml
 
+from scraper import liveness
+from scraper.liveness import LivenessStats, run_liveness
 from scraper.merge import merge
 from scraper.models import Company, Listing
 from scraper.render import inject_section, render_archived, render_listings
@@ -39,12 +41,21 @@ def write_outputs(root: Path, listings: list[Listing], now: datetime) -> None:
     (root / "ARCHIVED.md").write_text(render_archived(listings))
 
 
-def report(merged: list[Listing], previous_ids: set[str], failures: list[str]) -> None:
+def report(
+    merged: list[Listing],
+    previous_ids: set[str],
+    failures: list[str],
+    liveness_stats: LivenessStats,
+) -> None:
     new = sum(1 for item in merged if item.active and item.id not in previous_ids)
     open_count = sum(1 for item in merged if item.active)
     lines = [
         "## Listings update",
         f"- open: {open_count}, new this run: {new}",
+        (
+            f"- liveness: checked {liveness_stats.checked}, "
+            f"dead {liveness_stats.dead}, archived {liveness_stats.archived}"
+        ),
         f"- failed sources: {len(failures)}",
     ] + [f"  - {failure}" for failure in failures]
     text = "\n".join(lines)
@@ -83,8 +94,14 @@ def run(root: Path, now: datetime) -> int:
         return 1
 
     merged = merge(previous, fetched, now, sources_ok)
+    previous_ids = {item.id for item in previous}
+    try:
+        merged, liveness_stats = run_liveness(merged, previous_ids, now, check=liveness.check_url)
+    except Exception as error:  # a broken checker must never block the publish
+        print(f"liveness step failed, skipping: {error}", file=sys.stderr)
+        liveness_stats = LivenessStats(checked=0, dead=0, archived=0)
     write_outputs(root, merged, now)
-    report(merged, {item.id for item in previous}, failures)
+    report(merged, previous_ids, failures, liveness_stats)
     return 0
 
 
